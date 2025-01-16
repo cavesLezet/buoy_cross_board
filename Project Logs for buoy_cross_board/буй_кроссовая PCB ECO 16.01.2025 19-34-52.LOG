@@ -1,0 +1,179 @@
+Added Component: Designator=SB1(0805SB)
+Add component (AddParameter): Name = "Part Number"; Value = "SB"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(0805SB)
+Add component (AddParameter): Name = "Part Number"; Value = "SB"; VariantName = "[No Variations]"
+Added Component: Designator=SB3(0805SB)
+Add component (AddParameter): Name = "Part Number"; Value = "SB"; VariantName = "[No Variations]"
+Added Component: Designator=SB4(0805SB)
+Add component (AddParameter): Name = "Part Number"; Value = "SB"; VariantName = "[No Variations]"
+Added Component: Designator=X1(XT30UPB-F)
+Add component (AddParameter): Name = "Part Number"; Value = "XT30UPB-F"; VariantName = "[No Variations]"
+Added Component: Designator=X2(XT30PW-M)
+Add component (AddParameter): Name = "Part Number"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(DIN41612_32_2row_straight_mother)
+Add component (AddParameter): Name = "Part Number"; Value = "DIN41612_32_2row_straight_mother"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(MPW-3)
+Add component (AddParameter): Name = "Part Number"; Value = "MPW-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Питание на мотор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "концевик норм откр, второй конт на земле"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "Общий"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(MPW-8)
+Add component (AddParameter): Name = "Part Number"; Value = "MPW-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "панель 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "панель 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "панель 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value4"; Value = "панель 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value5"; Value = "панель 5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value6"; Value = "панель 6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value7"; Value = "панель 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value8"; Value = "Рваный Общий"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(KK5045-04AG)
+Add component (AddParameter): Name = "Part Number"; Value = "KK5045-04AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "водный дс и дс на дне трубы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "катод диодного датчика lm335,"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value4"; Value = "Общий, анод lm335 сюда"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "питалово на дс"; Value = "{Value1}"; VariantName = "[No Variations]"
+Added Component: Designator=XP6(KK5045-04AG)
+Add component (AddParameter): Name = "Part Number"; Value = "KK5045-04AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Питание окса"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "RS-485 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "RS-485 B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value4"; Value = "Общий"; VariantName = "[No Variations]"
+Added Component: Designator=XP7(KK5045-05AG)
+Add component (AddParameter): Name = "Part Number"; Value = "KK5045-05AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "питалово на дс"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "Сюда один дс воздушный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "питалово на tmp36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value4"; Value = "Выход tmp36 сюда"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value5"; Value = "Общий"; VariantName = "[No Variations]"
+Added Component: Designator=XP8(KK5045-04AG)
+Add component (AddParameter): Name = "Part Number"; Value = "KK5045-04AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Питание окса"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "RS-485 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "RS-485 B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value4"; Value = "Общий"; VariantName = "[No Variations]"
+Added Component: Designator=XP9(MPW-4)
+Add component (AddParameter): Name = "Part Number"; Value = "MPW-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "плюс аккума"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "рваный плюс аккума"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "Общий"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value4"; Value = "Рваный общий"; VariantName = "[No Variations]"
+Added Component: Designator=XP10(KK5045-04AG)
+Add component (AddParameter): Name = "Part Number"; Value = "KK5045-04AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Питание окса"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "RS-485 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "RS-485 B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value4"; Value = "Общий"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5_pizdec_clean Pin=XP1-A10
+Added Pin To Net: NetName=+5_pizdec_clean Pin=XP7-3
+Added Net: Name=+5_pizdec_clean
+Added Pin To Net: NetName=+5_sw Pin=XP1-A15
+Added Pin To Net: NetName=+5_sw Pin=XP4-1
+Added Pin To Net: NetName=+5_sw Pin=XP7-1
+Added Net: Name=+5_sw
+Added Pin To Net: NetName=+12_akkum_rvaniy Pin=X1-P
+Added Pin To Net: NetName=+12_akkum_rvaniy Pin=XP9-2
+Added Net: Name=+12_akkum_rvaniy
+Added Pin To Net: NetName=+12_akkum Pin=X2-P
+Added Pin To Net: NetName=+12_akkum Pin=XP9-1
+Added Net: Name=+12_akkum
+Added Pin To Net: NetName=+12_stable Pin=XP1-A1
+Added Pin To Net: NetName=+12_stable Pin=XP1-A2
+Added Pin To Net: NetName=+12_stable Pin=XP6-1
+Added Pin To Net: NetName=+12_stable Pin=XP8-1
+Added Pin To Net: NetName=+12_stable Pin=XP10-1
+Added Net: Name=+12_stable
+Added Pin To Net: NetName=+12_vilka Pin=XP1-A3
+Added Pin To Net: NetName=+12_vilka Pin=XP2-1
+Added Pin To Net: NetName=+12_vilka Pin=XP2-1
+Added Net: Name=+12_vilka
+Added Pin To Net: NetName=A1 Pin=XP1-A9
+Added Pin To Net: NetName=A1 Pin=XP4-3
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=XP1-A11
+Added Pin To Net: NetName=A2 Pin=XP7-4
+Added Net: Name=A2
+Added Pin To Net: NetName=ds18b20_1 Pin=XP1-A14
+Added Net: Name=ds18b20_1
+Added Pin To Net: NetName=ds18b20_2 Pin=XP1-A13
+Added Pin To Net: NetName=ds18b20_2 Pin=XP7-2
+Added Net: Name=ds18b20_2
+Added Pin To Net: NetName=ds18b20_3 Pin=XP1-A12
+Added Pin To Net: NetName=ds18b20_3 Pin=XP4-2
+Added Net: Name=ds18b20_3
+Added Pin To Net: NetName=GND_panel Pin=XP3-8
+Added Pin To Net: NetName=GND_panel Pin=XP9-4
+Added Net: Name=GND_panel
+Added Pin To Net: NetName=GND Pin=X1-N
+Added Pin To Net: NetName=GND Pin=X2-N
+Added Pin To Net: NetName=GND Pin=XP1-A16
+Added Pin To Net: NetName=GND Pin=XP1-B15
+Added Pin To Net: NetName=GND Pin=XP1-B16
+Added Pin To Net: NetName=GND Pin=XP4-4
+Added Pin To Net: NetName=GND Pin=XP6-4
+Added Pin To Net: NetName=GND Pin=XP7-5
+Added Pin To Net: NetName=GND Pin=XP8-4
+Added Pin To Net: NetName=GND Pin=XP9-3
+Added Pin To Net: NetName=GND Pin=XP10-4
+Added Net: Name=GND
+Added Pin To Net: NetName=koncevik Pin=XP1-A8
+Added Pin To Net: NetName=koncevik Pin=XP2-2
+Added Pin To Net: NetName=koncevik Pin=XP2-2
+Added Net: Name=koncevik
+Added Pin To Net: NetName=panel_1 Pin=XP1-B1
+Added Pin To Net: NetName=panel_1 Pin=XP1-B2
+Added Pin To Net: NetName=panel_1 Pin=XP3-1
+Added Net: Name=panel_1
+Added Pin To Net: NetName=panel_2 Pin=XP1-B3
+Added Pin To Net: NetName=panel_2 Pin=XP1-B4
+Added Pin To Net: NetName=panel_2 Pin=XP3-2
+Added Net: Name=panel_2
+Added Pin To Net: NetName=panel_3 Pin=XP1-B5
+Added Pin To Net: NetName=panel_3 Pin=XP1-B6
+Added Pin To Net: NetName=panel_3 Pin=XP3-3
+Added Net: Name=panel_3
+Added Pin To Net: NetName=panel_4 Pin=XP1-B7
+Added Pin To Net: NetName=panel_4 Pin=XP1-B8
+Added Pin To Net: NetName=panel_4 Pin=XP3-4
+Added Net: Name=panel_4
+Added Pin To Net: NetName=panel_5 Pin=XP1-B9
+Added Pin To Net: NetName=panel_5 Pin=XP1-B10
+Added Pin To Net: NetName=panel_5 Pin=XP3-5
+Added Net: Name=panel_5
+Added Pin To Net: NetName=panel_6 Pin=XP1-B11
+Added Pin To Net: NetName=panel_6 Pin=XP1-B12
+Added Pin To Net: NetName=panel_6 Pin=XP3-6
+Added Net: Name=panel_6
+Added Pin To Net: NetName=panel_7 Pin=XP1-B13
+Added Pin To Net: NetName=panel_7 Pin=XP1-B14
+Added Pin To Net: NetName=panel_7 Pin=XP3-7
+Added Net: Name=panel_7
+Added Pin To Net: NetName=RS485_1_N Pin=SB1-1
+Added Pin To Net: NetName=RS485_1_N Pin=XP1-A4
+Added Net: Name=RS485_1_N
+Added Pin To Net: NetName=RS485_1_P Pin=SB2-1
+Added Pin To Net: NetName=RS485_1_P Pin=XP1-A5
+Added Net: Name=RS485_1_P
+Added Pin To Net: NetName=RS485_2_N Pin=SB3-1
+Added Pin To Net: NetName=RS485_2_N Pin=XP1-A6
+Added Net: Name=RS485_2_N
+Added Pin To Net: NetName=RS485_2_P Pin=SB4-1
+Added Pin To Net: NetName=RS485_2_P Pin=XP1-A7
+Added Net: Name=RS485_2_P
+Added Pin To Net: NetName=RS485_N Pin=SB1-2
+Added Pin To Net: NetName=RS485_N Pin=SB3-2
+Added Pin To Net: NetName=RS485_N Pin=XP6-3
+Added Pin To Net: NetName=RS485_N Pin=XP8-3
+Added Pin To Net: NetName=RS485_N Pin=XP10-3
+Added Net: Name=RS485_N
+Added Pin To Net: NetName=RS485_P Pin=SB2-2
+Added Pin To Net: NetName=RS485_P Pin=SB4-2
+Added Pin To Net: NetName=RS485_P Pin=XP6-2
+Added Pin To Net: NetName=RS485_P Pin=XP8-2
+Added Pin To Net: NetName=RS485_P Pin=XP10-2
+Added Net: Name=RS485_P
+Added Class: Name=кроссовая буй
+Added Differential Pair: Name=RS485_1
+Added Differential Pair: Name=RS485_2
+Added Differential Pair: Name=RS485
+Added Room: Name=кроссовая буй

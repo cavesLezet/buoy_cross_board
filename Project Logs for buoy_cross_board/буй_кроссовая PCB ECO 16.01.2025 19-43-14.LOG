@@ -1,0 +1,9 @@
+Added Component: Designator=XP2(MPW-3)
+Add component (AddParameter): Name = "Part Number"; Value = "MPW-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Питание на мотор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "концевик норм откр, второй конт на земле"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "Общий"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12_vilka Pin=XP2-1
+Added Pin To Net: NetName=koncevik Pin=XP2-2
+Added Pin To Net: NetName=GND Pin=XP2-3
+Added Member To Class: ClassName=кроссовая буй Member=Component XP2 MPW-3

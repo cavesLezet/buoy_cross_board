@@ -1,0 +1,10 @@
+Added Component: Designator=XP5(KK5045-03AG)
+Add component (AddParameter): Name = "Part Number"; Value = "KK5045-03AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "Питание дсов"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "дсы на панели"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value3"; Value = "Общий"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5_sw Pin=XP5-1
+Added Pin To Net: NetName=ds18b20_1 Pin=XP5-2
+Added Pin To Net: NetName=GND Pin=XP5-3
+Added Member To Class: ClassName=кроссовая буй Member=Component XP5 KK5045-03AG
+Added Room: Name=кроссовая буй
