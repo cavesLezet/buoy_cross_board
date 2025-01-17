@@ -1,0 +1,36 @@
+Added Component: Designator=XP1(DIN41612_32_2row_straight_mother)
+Add component (AddParameter): Name = "Part Number"; Value = "DIN41612_32_2row_straight_mother"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12_stable Pin=XP1-A1
+Added Pin To Net: NetName=+12_stable Pin=XP1-A2
+Added Pin To Net: NetName=+12_vilka Pin=XP1-A3
+Added Pin To Net: NetName=RS485_1_N Pin=XP1-A4
+Added Pin To Net: NetName=RS485_1_P Pin=XP1-A5
+Added Pin To Net: NetName=RS485_2_N Pin=XP1-A6
+Added Pin To Net: NetName=RS485_2_P Pin=XP1-A7
+Added Pin To Net: NetName=koncevik Pin=XP1-A8
+Added Pin To Net: NetName=A1 Pin=XP1-A9
+Added Pin To Net: NetName=+5_pizdec_clean Pin=XP1-A10
+Added Pin To Net: NetName=A2 Pin=XP1-A11
+Added Pin To Net: NetName=ds18b20_3 Pin=XP1-A12
+Added Pin To Net: NetName=ds18b20_2 Pin=XP1-A13
+Added Pin To Net: NetName=ds18b20_1 Pin=XP1-A14
+Added Pin To Net: NetName=+5_sw Pin=XP1-A15
+Added Pin To Net: NetName=GND Pin=XP1-A16
+Added Pin To Net: NetName=panel_1 Pin=XP1-B1
+Added Pin To Net: NetName=panel_1 Pin=XP1-B2
+Added Pin To Net: NetName=panel_2 Pin=XP1-B3
+Added Pin To Net: NetName=panel_2 Pin=XP1-B4
+Added Pin To Net: NetName=panel_3 Pin=XP1-B5
+Added Pin To Net: NetName=panel_3 Pin=XP1-B6
+Added Pin To Net: NetName=panel_4 Pin=XP1-B7
+Added Pin To Net: NetName=panel_4 Pin=XP1-B8
+Added Pin To Net: NetName=panel_5 Pin=XP1-B9
+Added Pin To Net: NetName=panel_5 Pin=XP1-B10
+Added Pin To Net: NetName=panel_6 Pin=XP1-B11
+Added Pin To Net: NetName=panel_6 Pin=XP1-B12
+Added Pin To Net: NetName=panel_7 Pin=XP1-B13
+Added Pin To Net: NetName=panel_7 Pin=XP1-B14
+Added Pin To Net: NetName=GND Pin=XP1-B15
+Added Pin To Net: NetName=GND Pin=XP1-B16
+Added Member To Class: ClassName=кроссовая буй Member=Component XP1 DIN41612_32_2row_straight_mother
+Added Room: Name=кроссовая буй
